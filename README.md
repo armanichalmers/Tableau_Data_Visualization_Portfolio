@@ -60,14 +60,14 @@ Pivot tables and charts were then created in Google Sheets to explore relationsh
 
 The analysis examined several dimensions of Udemy course performance, including:
 
-- Subscribers by subject
-- Subscribers by course level
-- Average course price by subject
+- Subscriber activity by subject
+- Subscriber activity by course level
+- Average course price by subject and level
 - Average content duration by subject
 - Course ratings
 - Course popularity
 
-Google Sheets was used for initial exploration and pivot-table analysis, while **Tableau** was used to visualize the findings and create an interactive dashboard.
+**Google Sheets** was used for data cleaning, exploratory analysis, pivot tables, and charts. **Tableau** was then used to visualize the findings and develop an interactive dashboard focused on subscriber demand, course duration, and pricing.
 
 ---
 
@@ -98,16 +98,27 @@ Based on the findings:
 
 ## 📈 Interactive Tableau Dashboard
 
-An interactive Tableau dashboard was developed to bring the analysis together and allow users to explore course performance across multiple dimensions.
+I developed an interactive **Udemy Course Performance Dashboard in Tableau** to visualize key patterns in course content, subscriber demand, and pricing across Udemy's four subject areas.
 
-The dashboard includes insights related to:
+The dashboard includes:
 
-- Course subjects
-- Subscriber volume
-- Course levels
-- Average pricing
-- Content duration
-- Course ratings
+- **Average Content Duration by Subject** — compares the average course length across Business Finance, Graphic Design, Musical Instruments, and Web Development.
+- **Average Number of Subscribers per Subject** — compares subscriber activity across the four course categories.
+- **Average Course Price by Subject and Level** — examines pricing differences across All Levels, Beginner, Expert, and Intermediate courses.
+
+Together, these visualizations provide a consolidated view of how **course subject, content duration, subscriber demand, and pricing** vary across the Udemy course catalog.
+
+<p align="center">
+  <a href="https://public.tableau.com/views/EntryLevelUdemyProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+    <img width="700"
+         alt="Udemy Course Performance Tableau Dashboard"
+         src="https://github.com/user-attachments/assets/2181da50-de3d-4a67-b21b-07af42a85c1f" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Click the dashboard image to explore the interactive Tableau dashboard.</em>
+</p>
 
 🔗 **[View the Interactive Tableau Dashboard](https://public.tableau.com/views/EntryLevelUdemyProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
