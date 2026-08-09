@@ -114,7 +114,7 @@ Based on the analysis:
 
 An interactive Tableau dashboard was developed to visualize the Udemy analysis and allow users to explore the findings.
 
-🔗 **[View the Udemy Tableau Dashboard]([YOUR-UDEMY-TABLEAU-LINK](https://public.tableau.com/views/EntryLevelUdemyProject/AvgContentDurxSubj?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+🔗 **[View the Udemy Tableau Dashboard](https://public.tableau.com/views/EntryLevelUdemyProject/AvgContentDurxSubj?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
@@ -198,7 +198,7 @@ Based on the analysis:
 
 An interactive Tableau dashboard was developed to visualize hotel rankings, regions, themes, and performance.
 
-🔗 **[View the Travel + Leisure Tableau Dashboard]([YOUR-HOTEL-TABLEAU-LINK](https://public.tableau.com/views/entryleveltop100hotels/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+🔗 **[View the Travel + Leisure Tableau Dashboard](https://public.tableau.com/views/entryleveltop100hotels/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
