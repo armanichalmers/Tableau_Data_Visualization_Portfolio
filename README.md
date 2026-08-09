@@ -109,7 +109,7 @@ The dashboard includes insights related to:
 - Content duration
 - Course ratings
 
-🔗 **[View the Interactive Tableau Dashboard](YOUR-TABLEAU-LINK)**
+🔗 **[View the Interactive Tableau Dashboard](https://public.tableau.com/views/EntryLevelUdemyProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 <!-- Add a screenshot of the Tableau dashboard here -->
 
