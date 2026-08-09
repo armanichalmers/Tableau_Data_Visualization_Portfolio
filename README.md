@@ -110,7 +110,7 @@ Together, these visualizations provide a consolidated view of how **course subje
 
 <p align="center">
   <a href="https://public.tableau.com/views/EntryLevelUdemyProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-    <img width="700"
+    <img width="600"
          alt="Udemy Course Performance Tableau Dashboard"
          src="https://github.com/user-attachments/assets/2181da50-de3d-4a67-b21b-07af42a85c1f" />
   </a>
