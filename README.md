@@ -34,6 +34,7 @@ The analysis explored several supporting questions:
 - Exploratory Data Analysis
 - Data Visualization
 - Dashboard Development
+- KPI Development
 - Business Analysis
 - Data Storytelling
 - Strategic Recommendations
@@ -67,7 +68,7 @@ The analysis examined several dimensions of Udemy course performance, including:
 - Course ratings
 - Course popularity
 
-**Google Sheets** was used for data cleaning, exploratory analysis, pivot tables, and charts. **Tableau** was then used to visualize the findings and develop an interactive dashboard focused on subscriber demand, course duration, and pricing.
+**Google Sheets** was used for data cleaning, exploratory analysis, pivot tables, and charts. **Tableau** was then used to visualize the findings and develop an interactive dashboard focused on subscriber demand, course duration, pricing, and overall course performance.
 
 ---
 
@@ -78,7 +79,7 @@ Several patterns emerged from the analysis:
 - **Web Development** was the most popular subject based on subscriber activity.
 - Web Development also had the highest average course price among the subjects analyzed.
 - Courses categorized as **All Levels** attracted the largest subscriber audience.
-- **Business Finance** courses had the longest average content duration.
+- **Web Development** had the longest average content duration among the four subject areas.
 - Average course ratings were relatively similar across the major subject areas analyzed.
 
 Overall, the analysis identified **Web Development as a particularly strong area of consumer demand** within the dataset.
@@ -98,15 +99,25 @@ Based on the findings:
 
 ## 📈 Interactive Tableau Dashboard
 
-I developed an interactive **Udemy Course Performance Dashboard in Tableau** to visualize key patterns in course content, subscriber demand, and pricing across Udemy's four subject areas.
+I developed an interactive **Udemy Course Performance Dashboard in Tableau** to provide a consolidated view of course performance, subscriber demand, content duration, pricing, reviews, and ratings across Udemy's four subject areas.
 
-The dashboard includes:
+### Key Performance Indicators
+
+The dashboard provides a high-level overview of the dataset through four KPI cards:
+
+- **Total Courses:** 3,672
+- **Total Subscribers:** 11.8M
+- **Total Reviews:** 575K
+- **Average Rating:** 0.61
+
+### Dashboard Visualizations
 
 - **Average Content Duration by Subject** — compares the average course length across Business Finance, Graphic Design, Musical Instruments, and Web Development.
-- **Average Number of Subscribers per Subject** — compares subscriber activity across the four course categories.
+- **Total Number of Subscribers per Subject** — shows the distribution of total subscribers across the four course categories.
 - **Average Course Price by Subject and Level** — examines pricing differences across All Levels, Beginner, Expert, and Intermediate courses.
+- **Subject Filter** — allows users to interactively explore dashboard results by individual subject area.
 
-Together, these visualizations provide a consolidated view of how **course subject, content duration, subscriber demand, and pricing** vary across the Udemy course catalog.
+Together, the KPIs and visualizations provide a consolidated view of how **course subject, content duration, subscriber demand, pricing, reviews, and ratings** vary across the Udemy course catalog.
 
 <p align="center">
   <a href="https://public.tableau.com/views/EntryLevelUdemyProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
@@ -116,14 +127,11 @@ Together, these visualizations provide a consolidated view of how **course subje
   </a>
 </p>
 
-
 <p align="center">
   <em>Click the dashboard image to explore the interactive Tableau dashboard.</em>
 </p>
 
 🔗 **[View the Interactive Tableau Dashboard](https://public.tableau.com/views/EntryLevelUdemyProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-
-<!-- Add a screenshot of the Tableau dashboard here -->
 
 ---
 
@@ -137,4 +145,4 @@ The original project report documents the data preparation process, exploratory 
 
 ## 📚 Project Background
 
-This project was originally completed as part of the **EntryLevel Data Analyst program** and has been organized here as a portfolio case study demonstrating data cleaning, spreadsheet analysis, Tableau dashboard development, data visualization, and business-focused analytical thinking.
+This project was originally completed as part of the **EntryLevel Data Analyst program** and has been organized here as a portfolio case study demonstrating data cleaning, spreadsheet analysis, Tableau dashboard development, KPI development, data visualization, and business-focused analytical thinking.
