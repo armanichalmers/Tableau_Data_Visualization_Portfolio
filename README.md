@@ -25,6 +25,43 @@ The analysis explored several supporting questions:
 
 ---
 
+## 📈 Interactive Tableau Dashboard
+
+I developed an interactive **Udemy Course Performance Dashboard in Tableau** to provide a consolidated view of course performance, subscriber demand, content duration, pricing, reviews, and ratings across Udemy's four subject areas.
+
+### Key Performance Indicators
+
+The dashboard provides a high-level overview of the dataset through four KPI cards:
+
+- **Total Courses:** 3,672
+- **Total Subscribers:** 11.8M
+- **Total Reviews:** 575K
+- **Average Rating:** 0.61
+
+### Dashboard Visualizations
+
+- **Average Content Duration by Subject** — compares the average course length across Business Finance, Graphic Design, Musical Instruments, and Web Development.
+- **Total Number of Subscribers per Subject** — shows the distribution of total subscribers across the four course categories.
+- **Average Course Price by Subject and Level** — examines pricing differences across All Levels, Beginner, Expert, and Intermediate courses.
+- **Subject Filter** — allows users to interactively explore dashboard results by individual subject area.
+
+Together, the KPIs and visualizations provide a consolidated view of how **course subject, content duration, subscriber demand, pricing, reviews, and ratings** vary across the Udemy course catalog.
+
+<p align="center">
+  <a href="https://public.tableau.com/views/EntryLevelUdemyProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+    <img width="660"
+         alt="Udemy Course Performance Tableau Dashboard"
+         src="https://github.com/user-attachments/assets/be70da16-fa8e-44a1-8bc1-a8ff8c601966" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Click the dashboard image to explore the interactive Tableau dashboard.</em>
+</p>
+
+🔗 **[View the Interactive Tableau Dashboard](https://public.tableau.com/views/EntryLevelUdemyProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+---
 ## 🛠️ Tools & Skills
 
 - **Tableau**
@@ -94,44 +131,6 @@ Based on the findings:
 - Continue offering courses accessible to **all experience levels**, which represented the largest subscriber audience.
 - Evaluate course duration alongside subscriber behavior and ratings when developing future course offerings.
 - Consider course subject, subscriber demand, pricing, and engagement together when evaluating potential revenue opportunities.
-
----
-
-## 📈 Interactive Tableau Dashboard
-
-I developed an interactive **Udemy Course Performance Dashboard in Tableau** to provide a consolidated view of course performance, subscriber demand, content duration, pricing, reviews, and ratings across Udemy's four subject areas.
-
-### Key Performance Indicators
-
-The dashboard provides a high-level overview of the dataset through four KPI cards:
-
-- **Total Courses:** 3,672
-- **Total Subscribers:** 11.8M
-- **Total Reviews:** 575K
-- **Average Rating:** 0.61
-
-### Dashboard Visualizations
-
-- **Average Content Duration by Subject** — compares the average course length across Business Finance, Graphic Design, Musical Instruments, and Web Development.
-- **Total Number of Subscribers per Subject** — shows the distribution of total subscribers across the four course categories.
-- **Average Course Price by Subject and Level** — examines pricing differences across All Levels, Beginner, Expert, and Intermediate courses.
-- **Subject Filter** — allows users to interactively explore dashboard results by individual subject area.
-
-Together, the KPIs and visualizations provide a consolidated view of how **course subject, content duration, subscriber demand, pricing, reviews, and ratings** vary across the Udemy course catalog.
-
-<p align="center">
-  <a href="https://public.tableau.com/views/EntryLevelUdemyProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-    <img width="660"
-         alt="Udemy Course Performance Tableau Dashboard"
-         src="https://github.com/user-attachments/assets/be70da16-fa8e-44a1-8bc1-a8ff8c601966" />
-  </a>
-</p>
-
-<p align="center">
-  <em>Click the dashboard image to explore the interactive Tableau dashboard.</em>
-</p>
-
-🔗 **[View the Interactive Tableau Dashboard](https://public.tableau.com/views/EntryLevelUdemyProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
