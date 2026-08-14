@@ -80,7 +80,7 @@ Together, the KPIs and visualizations provide a consolidated view of how **cours
 
 ## 🧹 Data Preparation
 
-The dataset was prepared for analysis using **Google Sheets**.
+The four subject-level dataset was prepared for analysis using **Google Sheets**.
 
 Data preparation included:
 
@@ -91,6 +91,22 @@ Data preparation included:
 - Reviewing the dataset for consistency
 
 Pivot tables and charts were then created in Google Sheets to explore relationships within the data before developing the Tableau dashboard.
+
+---
+
+
+## 📂 Dataset
+
+The analysis uses four Udemy course datasets representing the subject areas included in the project:
+
+- **Business Finance** — `3.1-data-sheet-udemy-courses-business-courses.csv`
+- **Graphic Design** — `3.1-data-sheet-udemy-courses-design-courses.csv`
+- **Musical Instruments** — `3.1-data-sheet-udemy-courses-music-courses.csv`
+- **Web Development** — `3.1-data-sheet-udemy-courses-web-development.csv`
+
+The datasets contain course-level information used to analyze factors such as **course subject, price, number of subscribers, reviews, course level, content duration, and ratings**.
+
+The four datasets were cleaned and analyzed in **Google Sheets** before the results were visualized in Tableau.
 
 ---
 
