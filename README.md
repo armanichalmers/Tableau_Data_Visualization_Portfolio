@@ -89,6 +89,14 @@ Data preparation included:
 - Standardizing column headers
 - Standardizing course-level categories
 - Reviewing the dataset for consistency
+- Validating the rating scale (values range from 0.0 to 1.0)
+
+> **Note on ratings:** The source dataset provides course ratings normalized 
+> to a 0–1 scale rather than Udemy's standard 5-point star scale. Because the 
+> original scale could not be verified from the data, ratings were kept in 
+> their normalized form rather than converted, and the dashboard's Average 
+> Rating KPI reflects the 0–1 scale.
+
 
 Pivot tables and charts were then created in Google Sheets to explore relationships within the data before developing the Tableau dashboard.
 
